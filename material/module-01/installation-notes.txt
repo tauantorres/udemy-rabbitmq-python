@@ -1,0 +1,10 @@
+rabbitmq-plugins enable rabbitmq_management
+
+localhost:15672
+
+
+
+
+
+
+
